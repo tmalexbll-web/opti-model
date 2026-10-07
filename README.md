@@ -35,7 +35,7 @@ Pick one.
 **With the skills CLI**
 
 ```bash
-npx skills add https://github.com/<your-user>/opti-model --skill opti-model
+npx skills add https://github.com/tmalexbll-web/opti-model --skill opti-model
 ```
 
 **Manually, for all your projects (Claude Code)**
